@@ -14,7 +14,7 @@ A web-based Student Management System built with Django, enabling efficient mana
 ## Tech Stack
 
 - **Backend:** Python (Django 6.0.5)
-- **Frontend:** HTML (Django Templates), CSS (static), basic Bootstrap (optional, add to static if desired)
+- **Frontend:** HTML (Django Templates), CSS (static)
 - **Database:** SQLite (default Django backend)
 - **Other:** Django ORM, Django Admin
 
